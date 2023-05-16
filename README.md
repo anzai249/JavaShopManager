@@ -38,7 +38,7 @@ No Collaborators ;(
 
 or
 
-<img src="https://github.com/anzai249/CyberGui/blob/main/img/wechat.png?raw=true" width="300px"></img>
+<img src="wechat.png" width="300px"></img>
 
 ## For Chinese students
 
